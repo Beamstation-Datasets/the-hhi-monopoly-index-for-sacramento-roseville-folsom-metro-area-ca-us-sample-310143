@@ -1,0 +1,12 @@
+{
+  "export_job_id": "682f8ba2-d3fb-4eac-803e-621143aa20ec",
+  "id_short": 310143,
+  "published_at": "2026-04-11T07:24:45Z",
+  "repo_name": "the-hhi-monopoly-index-for-sacramento-roseville-folsom-metro-area-ca-us-sample-310143",
+  "sample_asset_name": "beamstation_310143_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/310143/beamstation_310143_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "db6b648fa8e937a45f7034c5c5d43d27c516848e0cc09d241f127c91c71b763f",
+  "sample_size_bytes": 27760,
+  "total_records": 53
+}
