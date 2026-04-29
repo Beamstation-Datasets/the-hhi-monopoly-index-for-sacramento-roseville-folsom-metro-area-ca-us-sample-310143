@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Sacramento-Roseville-Folsom Metro Area, CA, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `310143` |
 | Location | Sacramento-Roseville-Folsom, CA |
 | Category | Restaurants |
-| Full dataset size | 90 records |
-| Free sample size | 9 records (10.0%) |
-| Last export | 2026-04-22T06:23:16.569678+00:00 |
+| Full dataset size | 109 records |
+| Free sample size | 10 records (9.17%) |
+| Last export | 2026-04-29T08:27:32.119066+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-sacramento-roseville-folsom-metro-area-ca-us-sample-310143/releases/download/sample-latest/beamstation_310143_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
